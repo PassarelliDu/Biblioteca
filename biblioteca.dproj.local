@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/04/13 11:57:05.000.488,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/04/13 12:06:02.000.118,C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\User\Documents\Embarcadero\Studio\Projects\fMainU.dfm</Transaction>
+    <Transaction>2021/04/13 12:06:02.000.118,C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\User\Documents\Embarcadero\Studio\Projects\fMainU.pas</Transaction>
+    <Transaction>2021/04/13 13:12:41.000.909,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/04/13 13:13:02.000.065,C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\User\Documents\Embarcadero\Studio\Projects\dmU.dfm</Transaction>
+    <Transaction>2021/04/13 13:13:02.000.045,C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\User\Documents\Embarcadero\Studio\Projects\dmU.pas</Transaction>
+    <Transaction>2021/04/13 13:53:17.000.040,C:\Users\User\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\User\Documents\Embarcadero\Studio\Projects\biblioteca.dproj</Transaction>
+    <Transaction>2021/04/15 12:54:20.000.922,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/04/15 12:55:07.000.525,C:\Users\User\Documents\Embarcadero\Studio\Projects\fEditarLivro.dfm=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/04/15 12:55:07.000.525,C:\Users\User\Documents\Embarcadero\Studio\Projects\fEditarLivro.pas=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
